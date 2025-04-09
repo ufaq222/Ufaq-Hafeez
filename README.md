@@ -22,9 +22,8 @@ Currently studying at **UET Lahore**
 ---
 
 ## 📬 How to reach me:
-- Email: [ufaqhafeez0300@gmail.com](mailto:ufaqhafeez@gmail.com)
-- LinkedIn: [ufaq-hafeez](https://www.linkedin.com/in/ufaq-hafeez)
-- GitHub: [ufaqhafeez](https://github.com/ufaqhafeez)
+- Email: [ufaqhafeez0300@gmail.com](mailto:ufaqhafeez0300@gmail.com)
+- LinkedIn: [ufaqhafeez](https://www.linkedin.com/in/ufaq-hafeez-883a07299/)
 
 ---
 
@@ -38,34 +37,8 @@ Currently studying at **UET Lahore**
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 
 **Tools & Frameworks:**
-- ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=Unity&logoColor=white)
 - ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=AdobeIllustrator&logoColor=white)
 - ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=AdobePhotoshop&logoColor=white)
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=Javascript&logoColor=black)
 
 ---
-
-## 📂 My Projects:
-Check out some of my projects below:
-
-1. **[Project 1 Name]**
-   - Brief description of the project.
-   - Tech stack used: `Python`, `Django`, etc.
-   - [GitHub link](#)
-
-2. **[Project 2 Name]**
-   - Brief description of the project.
-   - Tech stack used: `JavaScript`, `React`, etc.
-   - [GitHub link](#)
-
-3. **[Project 3 Name]**
-   - Brief description of the project.
-   - Tech stack used: `C#`, `Unity`, etc.
-   - [GitHub link](#)
-
----
-
-## 📈 GitHub Stats:
-
-![Ufaq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ufaqhafeez&show_icons=true&count_private=true&hide=prs&theme=radical)
